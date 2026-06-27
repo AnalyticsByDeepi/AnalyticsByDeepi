@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 
-<h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 💻 VS Code & GitHub Enthusiast</h3>
+<h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 🚀 Learning & Growing Every Day </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Learner;Future+Data+Analyst;Learning+Something+New+Every+Day+🚀"/>
@@ -11,8 +11,8 @@
 ## 👩‍💻 About Me
 
 - 🌱 Currently learning **Python**
-- 📚 Completed **Session 1 – Session 4**
-- 🔄 Working on **Session 5**
+- 📚 Completed **Session 1 – Session 5**
+- 🔄 Working on **Python Assessments**
 - 💻 Learning VS Code, Git & GitHub
 - 🎯 Goal: Become a **Data Analyst**
 - 📈 Passionate about learning and building projects
