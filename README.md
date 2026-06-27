@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Deepika GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 
 <h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 🚀 Learning & Growing Every Day </h3>
