@@ -1,43 +1,117 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
-<h3 align="center">Python Learner | Aspiring Data Analyst | GitHub Beginner</h3>
+
+<h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 💻 VS Code & GitHub Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Learner;Future+Data+Analyst;Learning+Something+New+Every+Day+🚀"/>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🌱 Currently learning **Python**
-- 📚 Working through Python training sessions
-- 💻 Using **VS Code, Git & GitHub**
+- 📚 Completed **Session 1 – Session 4**
+- 🔄 Working on **Session 5**
+- 💻 Learning VS Code, Git & GitHub
 - 🎯 Goal: Become a **Data Analyst**
-- 🚀 Learning one concept every day
+- 📈 Passionate about learning and building projects
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github"/>
 
-## 📂 Current Progress
-
-- ✅ Session 1
-- ✅ Session 2
-- ✅ Session 3
-- ✅ Session 4
-- ✅ Session 5
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnalyticsByDeepi&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyticsByDeepi&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnalyticsByDeepi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyticsByDeepi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnalyticsByDeepi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnalyticsByDeepi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📚 Current Progress
+
+| Session | Status |
+|---------|--------|
+| ✅ Session 1 | Completed |
+| ✅ Session 2 | Completed |
+| ✅ Session 3 | Completed |
+| ✅ Session 4 | Completed |
+| ✅ Session 5 | Completed |
+
+---
+
+## 🎯 Currently Learning
+
+- 🐍 Python
+- 📊 Data Analysis
+- 📁 Git & GitHub
+- 🗄 SQL
+- 📈 Excel
+
+---
+<p align="center">
+
+<a href="https://github.com/AnalyticsByDeepi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepika-m-6570a12a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/deepi_kitty_2004/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:deepika234deep03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+## 💬 Quote
+
+> **"Discipline today, Success tomorrow."**
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://komarev.com/ghpvc/?username=AnalyticsByDeepi&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
