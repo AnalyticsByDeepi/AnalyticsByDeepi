@@ -10,9 +10,8 @@
 ## 👩🏻‍💻 About Me
 
 - 🌱 Currently learning **Python**
-- 📚 Completed **Session 1 – Session 5**
 - 🔄 Working on **Python Assessments**
-- 💻 Learning VS Code, Git & GitHub
+- 💻 Learning Excel, VS Code, Git & GitHub
 - 🎯 Goal: Become a **Data Analyst**
 - 📈 Passionate about learning and building projects
 
