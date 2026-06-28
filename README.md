@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./banner.png" alt="Deepika GitHub Banner" width="100%">
+  <img src="./0aecb166-d09c-412b-91dc-9cd4a84e8346.png" alt="Deepika GitHub Banner" width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm Deepika</h1>
+<h1 align="center">Hi👋🏻, I'm Deepika</h1>
 
 <h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 🚀 Learning & Growing Every Day </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Learner;Future+Data+Analyst;Learning+Something+New+Every+Day+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Learner;Future+Data+Analyst;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 - 🌱 Currently learning **Python**
 - 📚 Completed **Session 1 – Session 5**
@@ -25,9 +25,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github"/>
-
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,html,css," />
 </p>
 
 ---
