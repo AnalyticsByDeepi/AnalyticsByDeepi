@@ -5,10 +5,6 @@
 
 <h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 🚀 Learning & Growing Every Day </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Learner;Future+Data+Analyst;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👩🏻‍💻 About Me
