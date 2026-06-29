@@ -67,7 +67,7 @@
 | ✅ Session 2 | Completed |
 | ✅ Session 3 | Completed |
 | ✅ Session 4 | Completed |
-| ✅ Session 5 | Completed |
+|    Session 5 | Processing |
 
 ---
 
