@@ -19,7 +19,6 @@
 - 🎓 Aspiring **Data Analyst** passionate about solving real-world problems through data.
 - 🐍 Currently strengthening my **Python** programming skills.
 - 📊 Learning **SQL, Excel, Power BI, Git & GitHub**.
-- ☁️ Exploring **AWS Cloud Fundamentals**.
 - 🚀 Building projects to create a strong portfolio.
 
 ---
@@ -40,7 +39,6 @@
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 </p>
 
@@ -54,7 +52,7 @@
 | Database | SQL |
 | Analytics | Excel, Power BI |
 | Tools | VS Code, Git, GitHub |
-| Cloud | AWS (Learning) |
+
 
 ---
 
@@ -104,16 +102,13 @@ Python practice assignments covering variables, loops, functions, file handling,
 ### 📊 Data Analytics Portfolio *(Coming Soon)*
 Excel, SQL, Power BI, and Python projects focused on real-world datasets.
 
-### ☁️ AWS Cloud *(Coming Soon)*
-Cloud learning journey and hands-on practice projects.
-
 ---
 
-# 💡 My Journey
+# My Journey
 
 <div align="center">
 
-> ## ✨ "Code with purpose. Learn with passion. Build without limits."
+> ## ✨<i>"Success isn't built overnight. It's built one commit, one bug fix, and one lesson at a time." 🚀</i>
 
 Every project I build brings me one step closer to becoming the developer I aspire to be.
 
