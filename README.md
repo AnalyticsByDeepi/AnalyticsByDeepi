@@ -99,11 +99,11 @@
 
 ## 💡 Quote of the Day
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> ### "Success isn't built overnight. It's built one commit, one bug fix, and one lesson at a time." 🚀
 
-</p>
+</div>
 
 ---
 
