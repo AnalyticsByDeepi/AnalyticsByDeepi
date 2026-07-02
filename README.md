@@ -2,24 +2,19 @@
   <img src="./0aecb166-d09c-412b-91dc-9cd4a84e8346.png" alt="Deepika GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋🏻, I'm Deepika</h1>
-
-<h3 align="center">
-🐍 Python Learner • 📊 Aspiring Data Analyst • 🚀 Learning & Growing Every Day
-</h3>
+<h1 align="center">Hello, I'm Deepika 👋🏻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;SQL+%7C+Power+BI;Always+Learning+New+Technologies🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&lines=Aspiring+Python+Developer;Data+Analytics+Learner;Turning+Data+Into+Insights;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Building+Interactive+Dashboards;Always+Learning+New+Technologies;Explore+My+Projects+Below" />
 </p>
-
 ---
 
-# 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
-- 🎓 Aspiring **Data Analyst** passionate about solving real-world problems through data.
-- 🐍 Currently strengthening my **Python** programming skills.
-- 📊 Learning **SQL, Excel, Power BI, Git & GitHub**.
-- 🚀 Building projects to create a strong portfolio.
+- 💡 Passionate about turning data into meaningful insights.
+- 📊 Building practical analytics projects and interactive Power BI dashboards.
+- 🛠️ Continuously enhancing my skills in Python, SQL, Excel, and Power BI.
+- 🚀 Eager to apply my knowledge to solve real-world business problems.
 
 ---
 
@@ -58,7 +53,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnalyticsByDeepi&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnalyticsByDeepi&theme=tokyonight"/>
 </p>
 
 <h2 align="center">
@@ -67,13 +62,13 @@
 
 <p align="center">
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnalyticsByDeepi&theme=github_dark"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnalyticsByDeepi&theme=github"/>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnalyticsByDeepi&theme=github_dark"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github"/>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github_dark"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnalyticsByDeepi&theme=github"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnalyticsByDeepi&theme=github_dark&utcOffset=5.5"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnalyticsByDeepi&theme=github&utcOffset=5.5"/>
 
 </p>
 
