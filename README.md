@@ -55,24 +55,27 @@
 
 
 ---
-
-# 📊 GitHub Dashboard
+## 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnalyticsByDeepi&theme=github_dark"/>
-
 </p>
 
+<h2 align="center">
+✨ <b>Top Languages • Repository Stats • Commits</b> ✨
+</h2>
+
 <p align="center">
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github_dark"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnalyticsByDeepi&theme=github_dark"/>
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnalyticsByDeepi&theme=github_dark"/>
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github_dark"/>
 
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnalyticsByDeepi&theme=github_dark&utcOffset=5.5"/>
 
 </p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -144,6 +147,10 @@ Every project I build brings me one step closer to becoming the developer I aspi
 
 ### 🌟 Always Learning • Always Building • Always Improving
 
-![](https://komarev.com/ghpvc/?username=AnalyticsByDeepi&style=for-the-badge&color=FFD700)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=AnalyticsByDeepi&style=for-the-badge&color=8A2BE2)
 
 </div>
+
+
