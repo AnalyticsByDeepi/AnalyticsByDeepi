@@ -1,73 +1,30 @@
 <p align="center">
   <img src="./0aecb166-d09c-412b-91dc-9cd4a84e8346.png" alt="Deepika GitHub Banner" width="100%">
 </p>
-<h1 align="center">Hi👋🏻, I'm Deepika</h1>
 
-<h3 align="center">🐍 Python Learner | 📊 Aspiring Data Analyst | 🚀 Learning & Growing Every Day </h3>
+<h1 align="center">Hi 👋🏻, I'm Deepika</h1>
 
----
-
-## 👩🏻‍💻 About Me
-
-- 🌱 Currently learning **Python**
-- 🔄 Working on **Python Assessments**
-- 💻 Learning Excel, VS Code, Git & GitHub
-- 🎯 Goal: Become a **Data Analyst**
-- 📈 Passionate about learning and building projects
-
----
----
-<div align="center">
-
-# ✨ My GitHub Universe ✨
-
-### Turning ☕ Coffee into 💻 Code and Ideas into 🚀 Impact
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;SQL+%7C+Power+BI+;Always+Learning+%F0%9F%9A%80" />
-
-</div>
-
----
-
-## 📊 GitHub Dashboard
+<h3 align="center">
+🐍 Python Learner • 📊 Aspiring Data Analyst • 🚀 Learning & Growing Every Day
+</h3>
 
 <p align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnalyticsByDeepi&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnalyticsByDeepi&theme=tokyonight"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnalyticsByDeepi&theme=tokyonight"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;SQL+%7C+Power+BI;Always+Learning+New+Technologies🚀" />
 </p>
 
 ---
 
-## 🔥 GitHub Activity
+# 👩🏻‍💻 About Me
 
-<p align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=AnalyticsByDeepi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnalyticsByDeepi&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- 🎓 Aspiring **Data Analyst** passionate about solving real-world problems through data.
+- 🐍 Currently strengthening my **Python** programming skills.
+- 📊 Learning **SQL, Excel, Power BI, Git & GitHub**.
+- ☁️ Exploring **AWS Cloud Fundamentals**.
+- 🚀 Building projects to create a strong portfolio.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -83,37 +40,89 @@
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🛠️ Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Python |
+| Database | SQL |
+| Analytics | Excel, Power BI |
+| Tools | VS Code, Git, GitHub |
+| Cloud | AWS (Learning) |
+
+---
+
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnalyticsByDeepi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnalyticsByDeepi&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github_dark"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnalyticsByDeepi&theme=github_dark&utcOffset=5.5"/>
 
 </p>
 
 ---
 
-## 💡 Quote of the Day
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnalyticsByDeepi&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnalyticsByDeepi&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🐍 Python Programming
+Python practice assignments covering variables, loops, functions, file handling, OOP, and problem-solving.
+
+### 📊 Data Analytics Portfolio *(Coming Soon)*
+Excel, SQL, Power BI, and Python projects focused on real-world datasets.
+
+### ☁️ AWS Cloud *(Coming Soon)*
+Cloud learning journey and hands-on practice projects.
+
+---
+
+# 💡 My Journey
 
 <div align="center">
 
-> ### "Success isn't built overnight. It's built one commit, one bug fix, and one lesson at a time." 🚀
+> ## ✨ "Code with purpose. Learn with passion. Build without limits."
+
+Every project I build brings me one step closer to becoming the developer I aspire to be.
 
 </div>
 
 ---
 
-<div align="center">
+# 🌐 Connect With Me
 
-### 🚀 Always Learning • Always Building • Always Shipping
-
-![](https://komarev.com/ghpvc/?username=AnalyticsByDeepi&style=for-the-badge&color=blueviolet)
-
-</div>
 <p align="center">
 
 <a href="https://github.com/AnalyticsByDeepi">
@@ -134,3 +143,12 @@
 
 </p>
 
+---
+
+<div align="center">
+
+### 🌟 Always Learning • Always Building • Always Improving
+
+![](https://komarev.com/ghpvc/?username=AnalyticsByDeepi&style=for-the-badge&color=FFD700)
+
+</div>
