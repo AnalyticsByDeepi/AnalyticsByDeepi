@@ -34,6 +34,7 @@
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 </p>
 
@@ -46,7 +47,7 @@
 | Programming | Python |
 | Database | SQL |
 | Analytics | Excel, Power BI |
-| Tools | VS Code, Git, GitHub |
+| Tools | VS Code, Git, GitHub, Jupyter Notebook, Canva |
 
 
 ---
@@ -138,14 +139,17 @@ Every project I build brings me one step closer to becoming the developer I aspi
 
 ---
 
-<div align="center">
-
-### 🌟 Always Learning • Always Building • Always Improving
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AnalyticsByDeepi&style=for-the-badge&color=8A2BE2)
+# ✨ Thank You for Visiting! ✨
+
+### 🌟 Always Learning • 🔥 Always Building • 🚀 Always Improving
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=AnalyticsByDeepi&style=flat&color=8A2BE2)
 
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:FF4D9D&height=180&section=footer"/>
