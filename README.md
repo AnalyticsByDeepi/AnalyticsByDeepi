@@ -53,23 +53,16 @@
 ---
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnalyticsByDeepi&theme=tokyonight"/>
-</p>
-
-<h2 align="center">
-✨ <b>Top Languages • Repository Stats • Commits</b> ✨
+✨ <b>Top Languages • Repository Stats</b> ✨
 </h2>
 
 <p align="center">
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnalyticsByDeepi&theme=github"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnalyticsByDeepi&theme=github"/>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnalyticsByDeepi&theme=github"/>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnalyticsByDeepi&theme=github"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnalyticsByDeepi&theme=github&utcOffset=5.5"/>
+</p>
 
 </p>
 
